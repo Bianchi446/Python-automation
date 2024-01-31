@@ -1,0 +1,6 @@
+• Preparing a CSV spreadsheet
+• Appending currency based on location
+• Standardizing the date format
+• Aggregating results
+• Processing data in parallel
+• Processing data with Pandas
